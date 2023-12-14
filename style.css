@@ -1,0 +1,370 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+header {
+    background-image: url(/img/background.png);
+}
+
+nav {
+    margin: auto;
+}
+
+.navbar {
+    display: flex;
+
+}
+
+.image1 {
+
+    margin-top: 14px;
+    margin-bottom: 20px;
+    padding-left: 45px;
+}
+
+.soft {
+    color: #28A745;
+    font-family: Open Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42.24px;
+    /* 120.686% */
+    /* padding-left: 99px; */
+    margin-top: 11px;
+
+
+}
+
+.soft1 {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42.24px;
+    margin-top: 11px;
+}
+
+.text {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.16px;
+    /* 156.444% */
+}
+
+.table {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 21px;
+    padding-left: 790px;
+    gap: 38px;
+}
+
+.decorion {
+    margin-top: 190px;
+    /* margin-bottom: 3610px; */
+    /* display: flex; */
+    text-align: center;
+}
+
+.own1 {
+    color: #E9E9E9;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 66px;
+    /* 120% */
+}
+
+.own2 {
+    color: #E9E9E9;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36.8px;
+    /* 167.273% */
+}
+
+.own3 {
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.16px;
+    /* 156.444% */
+}
+
+button {
+    border-radius: 5px;
+    background: #28A745;
+    width: 165px;
+    height: 48px;
+    flex-shrink: 0;
+    /* text-align: center; */
+    /* justify-content: center; */
+}
+
+.imglogo {
+    display: flex;
+    justify-content: space-between;
+    gap: 39px;
+    padding-left: 220px;
+    padding-right: 220px;
+    margin-top: 57px;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+    background-image: url(/logo/idoralogo.png);
+    color: #28A745;
+    /* background-color: #28A745; */
+    border-radius: 1000%;
+}
+
+.word1 {
+    color: #333;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32.947px;
+    /* 164.736% */
+}
+
+.texts {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.word2 {
+    color: #333;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.16px;
+    /* 156.444% */
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+
+.texts2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.image3 {
+    width: 790px;
+    height: 560px;
+    flex-shrink: 0;
+}
+
+.comprock-lorem-week {
+    display: flex;
+    background-color: #28A745;
+}
+
+.word3 {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32.947px;
+    /* 164.736% */
+    margin-top: 100px;
+}
+
+.word4 {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 48px;
+    /* 126.316% */
+
+}
+
+.word5 {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.16px;
+    /* 156.444% */
+}
+
+.texts3 {
+    background-color: #28A745;
+    padding-left: 30px;
+}
+
+.butun {
+    color: #E9E9E9;
+    margin-top: 50px;
+
+
+}
+
+
+
+.word6 {
+    color: #333;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32.947px;
+    /* 164.736% */
+    margin-top: 90px;
+
+}
+
+.word7 {
+    color: #333;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 48px;
+    /* 126.316% */
+    margin-top: 20px;
+}
+
+.word8 {
+    color: #333;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.16px;
+    /* 156.444% */
+    margin-top: 24px;
+    margin-bottom: 40px;
+}
+
+.imagetag {
+    /* display: flex;   */
+    padding-left: 100px;
+}
+
+.texts5 {
+    background-color: #0284D0;
+}
+
+.word9 {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32.947px;
+    /* 164.736% */
+    margin-bottom: 50px;
+}
+
+.word10 {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 48px;
+    /* 126.316% */
+}
+
+.word11 {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.16px;
+    /* 156.444% */
+}
+
+.comprock-lorem-weeek {
+    display: flex;
+}
+.texts3 {
+    background-color: #0284D0;
+    padding-left: 30px;
+}
+.buttun{
+
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    background-color: #0284D0;
+    border: 1px solid #FFFFFF;
+    padding: 11px 35px;
+    margin-left: 30px;
+    margin-top: 17px;
+}
+
+
+.texts6{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+.word9{
+    color: #333;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32.947px;
+    /* 164.736% */
+    margin-top: 90px;   
+}
+.word10{
+    color: #333;
+font-family: Open Sans;
+font-size: 38px;
+font-style: normal;
+font-weight: 300;
+line-height: 48px; /* 126.316% */
+}
+.word11{
+    color: #808080;
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28.16px; /* 156.444% */
+margin-top: px;
+}
